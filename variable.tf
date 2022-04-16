@@ -29,6 +29,7 @@ variable "s1address" {
 variable "s2address" {
 
   default = ["10.0.2.0/24"]
+}
 
 variable "s1" {
   default     = "subnet1"
